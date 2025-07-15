@@ -7,7 +7,7 @@
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma ORM](https://www.prisma.io/)
-- [PostgreSQL](https://www.postgresql.org/) или SQLite (в зависимости от настроек)
+- 💾 База данных: SQLite по умолчанию (можно переключить на PostgreSQL через настройки `schema.prisma` и `.env`)
 - Tailwind CSS
 
 ## 🚀 Возможности
