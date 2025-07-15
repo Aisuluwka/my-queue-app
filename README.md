@@ -47,6 +47,10 @@ npm run dev
 
 http://localhost:3000
 
+## Screenshot
+
+![Скриншот](./images/screenshot.png)
+
 ## Author
 
 Abikenova Aisulu
